@@ -34,7 +34,6 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 - **Name:** Rahul M R
 - **Register Number:** 2305003005
 
-  ### Ex. No. 01
 
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```python
